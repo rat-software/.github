@@ -1,4 +1,4 @@
-# RAT
+# RAT (Result Assessment Tool)
 
 The Result Assessment Tool (RAT) is a modular and flexible research software that allows the design and conduct of studies using search engine data.
 With RAT, researchers can easily define a list of queries. The tool then automatically queries selected search engines, collects the results, and presents them in a structured format for further processing. RAT efficiently collects result URLs, full text, and screenshots.
